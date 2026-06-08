@@ -27,4 +27,4 @@ Proyecto desarrollado en Java utilizando Programación Orientada a Objetos para 
 3. Revisar la salida en consola.
 
 ## Autor
-Magdalena
+Magdalena Leiton
